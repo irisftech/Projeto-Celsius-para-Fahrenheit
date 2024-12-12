@@ -1,4 +1,4 @@
-Projeto realizado sob às diretrizes do Instrutor Jonas do Curso "Deep Learning prático com TensorFlow e Python"
+Projeto realizado utilizando como parâmetro um modelo desenvolvido no curso "Deep Learning prático com TensorFlow e Python"
 criado no Google Collabs
 objetivo: Conversáo de temperatura Celsius para Fahrenheit.
 etapas da codificação: 
