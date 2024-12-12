@@ -1,5 +1,5 @@
 Projeto realizado utilizando como parâmetro um modelo desenvolvido no curso "Deep Learning prático com TensorFlow e Python"
-criado no Google Collabs
+criado no Google Colab
 objetivo: Conversáo de temperatura Celsius para Fahrenheit.
 etapas da codificação: 
 - Definição do Problema
